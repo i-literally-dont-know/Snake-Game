@@ -1,0 +1,4 @@
+snake
+*.o
+*.out
+.DS_Store
